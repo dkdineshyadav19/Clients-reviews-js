@@ -61,8 +61,7 @@ p{
 .fun{
      grid-area: fun;
     height: 5vh;
-    border:3px solid black;
-    background-color: black;
+    background-color: transparent;
 }
 .button {
   background-color: #4CAF50; /* Green */
